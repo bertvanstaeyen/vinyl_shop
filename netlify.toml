@@ -1,4 +1,0 @@
-[[redirects]]
-  from = "/*"
-  to = "vinylshop.netlify.app/:splat"
-  status = 200
